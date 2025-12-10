@@ -1,4 +1,4 @@
-# 🚀 nls_flutter_boilerplate
+# 🚀 NLS Flutter Boilerplate
 
 A clean and scalable **Flutter project boilerplate** with modular structure, API layer, localization, DI, theming, and environment configuration.
 
