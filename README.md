@@ -1,4 +1,4 @@
-# 🚀 NLS Flutter Boilerplate
+# 🚀 nls_flutter_boilerplate
 
 A clean and scalable **Flutter project boilerplate** with modular structure, API layer, localization, DI, theming, and environment configuration.
 
@@ -26,8 +26,11 @@ This template is designed for developers who want a **production-ready architect
 Clone this template:
 
 ```bash
-git clone https://github.com/<your-username>/nls_flutter_boilerplate.git
-cd nls_flutter_boilerplate
+git clone https://github.com/The-Next-Level-Software/nls-flutter-boilerplate
+```
+
+Resolve Dependencies:
+```bash
 flutter pub get
 ```
 
